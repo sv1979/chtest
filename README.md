@@ -1,4 +1,4 @@
-# project5
+# Experimenting with Vue and ChartJS
 
 ## Project setup
 ```
